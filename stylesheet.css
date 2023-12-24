@@ -131,8 +131,8 @@ name {
 }
 
 .one {
-    width: 180px;
-    height: 180px;
+    width: 280px;
+    height: 280px;
     position: relative;
 }
 
@@ -169,8 +169,8 @@ span.highlight {
 
 .td-pub-img {
     padding: 0;
-    width: 40%;
-    max-width: 40%;
+    width: 60%;
+    max-width: 60%;
     vertical-align: top
 }
 
